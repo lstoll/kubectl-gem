@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    kubectl (1.6.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kubectl!
+
+BUNDLED WITH
+   1.14.6
